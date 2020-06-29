@@ -1,0 +1,19 @@
+html, body{
+    padding: 0px;
+    margin: 0px;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background: #ddd;
+    padding: 50px;
+}
+
+canvas{
+    background: black;
+    margin:0 auto;
+    display: block;
+}
